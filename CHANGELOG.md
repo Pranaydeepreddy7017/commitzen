@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/Pranaydeepreddy7017/commitzen/compare/v1.2.1...v2.0.0) (2022-12-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* TESTING BREAKING CHANGE
+
+### Bug Fixes
+
+* test ([69ced70](https://github.com/Pranaydeepreddy7017/commitzen/commit/69ced708a4a17e19cae2129137441e9451304a0b))
+
 ### [1.2.1](https://github.com/Pranaydeepreddy7017/commitzen/compare/v1.2.0...v1.2.1) (2022-12-08)
 
 
