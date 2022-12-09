@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.2](https://github.com/Pranaydeepreddy7017/commitzen/compare/v3.1.1...v3.1.2) (2022-12-09)
+
+
+### Bug Fixes
+
+* without npm publish ([95dad70](https://github.com/Pranaydeepreddy7017/commitzen/commit/95dad7056978ed3d2900e730bf1981ce129e1069))
+
 ### [3.1.1](https://github.com/Pranaydeepreddy7017/commitzen/compare/v3.1.0...v3.1.1) (2022-12-09)
 
 ## [3.1.0](https://github.com/Pranaydeepreddy7017/commitzen/compare/v3.0.1...v3.1.0) (2022-12-09)
