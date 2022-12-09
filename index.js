@@ -1,3 +1,3 @@
-console.log( '  feat  line');
+console.log( ' other tests  line');
 console.log('fix test');
 
